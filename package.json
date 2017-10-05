@@ -1,0 +1,24 @@
+{
+  "name": "loftaero.com",
+  "version": "1.0.0",
+  "description": "Marketing site located at loftaero.com",
+  "main": "public/index.html",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server public -p 1234",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loftaeronautics/loftaero.com.git"
+  },
+  "author": "Jacob Burton",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/loftaeronautics/loftaero.com/issues"
+  },
+  "homepage": "https://github.com/loftaeronautics/loftaero.com#readme"
+}
